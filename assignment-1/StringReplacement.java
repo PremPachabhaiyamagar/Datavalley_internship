@@ -1,9 +1,3 @@
-import java.util.Scanner;
-
-public class ReplaceCharacterAtIndex {
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        
         System.out.print("Enter a string: ");
         String originalString = scanner.nextLine();
         
